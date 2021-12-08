@@ -1,4 +1,5 @@
-### Hi 👋, I'm Sandeep Badeti
+# Hello, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### I'm Sandeep Badeti from India and I build thing for the Web. 
 
 
 
@@ -11,4 +12,3 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: ...
 
-![Sandeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandeepbadeti-17&hide=contribs,prs)
