@@ -10,3 +10,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am as active to React.
 
+# My Skills
+
+
+https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
