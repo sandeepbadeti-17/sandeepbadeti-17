@@ -8,8 +8,7 @@
 - 👯 I’m looking to collaborate on UI/UX, FrontEnd and Open source projects
 - 💬 Ask me about FrontEnd Technologies
 - 📫 How to reach me: sandeepbadeti7730@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am as active as React.
+- 😄 Pronouns: He/Him.
 
 # My Skills 👨‍💻
 
