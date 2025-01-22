@@ -1,30 +1,38 @@
-# Hi, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-## I'm Sandeep Badeti from India
-#### I'm passionate about learning web development and I love building web apps. 
+# Hi, I'm Sandeep Badeti 👋
+### A Full Stack Developer from India, passionate about building responsive and scalable web applications.
 
+🔧 **Currently learning**: Advancing my knowledge in Backend Development and Cloud Technologies  
+🚀 **Looking to collaborate on**: Full Stack, UI/UX, Frontend, Backend, and Open-Source Projects  
+💬 **Feel free to ask me about**: Full Stack Development, ReactJS, NodeJS, MongoDB, JavaScript, Web Development  
+📫 **Reach me**: [sandeepbadeti7730@gmail.com](mailto:sandeepbadeti7730@gmail.com)  
+🔗 **Find me on**:  
+- [LinkedIn](https://www.linkedin.com/in/sandeep-badeti-56b3b520b)  
+- [Twitter](https://twitter.com/Sandeep17347946?s=09)  
+- [Hashnode](https://hashnode.com/@Code-Sandeep)
 
+---
 
-- 🌱 I’m currently learning FrontEnd Web Development
-- 👯 I’m looking to collaborate on UI/UX, FrontEnd and Open source projects
-- 💬 Ask me about FrontEnd Technologies
-- 📫 How to reach me: sandeepbadeti7730@gmail.com
-- 😄 Pronouns: He/Him.
+### 🚀 **My Skills** 👨‍💻
 
-# My Skills 👨‍💻
+- **Frontend**: HTML5, CSS3, JavaScript (ES6+), TypeScript, ReactJS, Redux, React Hooks, Material-UI, Bootstrap, Sass  
+- **Backend**: NodeJS, ExpressJS, MongoDB, MySQL, RESTful APIs, GraphQL  
+- **Tools**: Git, GitHub, Webpack, Docker, Postman, GitHub Actions  
+- **Languages**: JavaScript, Python  
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
+---
 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+### 🏢 **Work Experience**  
+- **Senior Systems Engineer (Full Stack Developer)**  
+  **Infosys Limited** | Jan 2022 – Aug 2024  
+  Worked as a Full Stack Developer for nearly 3 years, designing and implementing robust systems using modern technologies such as ReactJS, NodeJS, ExpressJS, and MongoDB. Led several impactful projects while ensuring optimal performance and seamless integration across client systems.
 
-<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
+---
 
-<img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+### 🔨 **Selected Projects**  
+- **Common Secret Portal**: Secure full-stack CRUD system with advanced encryption and integration with client systems.  
+- **Batteries**: Self-service battery modeling tools built for internal teams, reducing support dependency by 25%.  
+- **Westpac Skill Hub**: Full-stack application with UX/UI design implementation, optimized with Webpack and ReactJS.
 
-# Find Me 🌍
+---
 
-* [LinkedIn](https://www.linkedin.com/in/sandeep-badeti-56b3b520b)
-* [Twitter](https://twitter.com/Sandeep17347946?s=09%20)
-* [codesandbox](https://codesandbox.io/u/Sandeep-17-bot)
-* [instagram](https://www.instagram.com/code_sandeep/)
-* [Hashnode](https://hashnode.com/@Code-Sandeep)
-
+### 🌱 **I’m always looking to learn and grow** — Let's build something amazing together! 🚀
