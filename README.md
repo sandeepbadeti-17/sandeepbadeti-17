@@ -3,7 +3,7 @@
 
 🔧 **Currently learning**: Advancing my knowledge in Backend Development and Cloud Technologies  
 🚀 **Looking to collaborate on**: Full Stack, UI/UX, Frontend, Backend, and Open-Source Projects  
-💬 **Feel free to ask me about**: Full Stack Development, ReactJS, NodeJS, MySQL, MongoDB, JavaScript, Web Development  
+💬 **Feel free to ask me about**: Full Stack Development, ReactJS, NodeJS, MongoDB, PostgreSQL with Prisma(ORM) JavaScript, Web Development  
 📫 **Reach me**: [sandeepbadeti7730@gmail.com](mailto:sandeepbadeti7730@gmail.com)  
 🔗 **Find me on**:  
 - [LinkedIn](https://www.linkedin.com/in/sandeep-badeti-56b3b520b)  
