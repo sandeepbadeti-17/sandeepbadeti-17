@@ -29,7 +29,8 @@
 ---
 
 ### 🔨 **Selected Projects**  
-- **Common Secret Portal**: Secure full-stack CRUD system with advanced encryption and integration with client systems.  
+- **Common Secret Portal**: Designed and built a centralized system to securely store and retrieve application secrets (API keys, credentials),
+reducing reliance on hardcoded values and environment-based storage.  
 - **Batteries**: Self-service battery modeling tools built for internal teams, reducing support dependency by 25%.  
 - **Westpac Skill Hub**: Full-stack application with UX/UI design implementation, optimized with Webpack and ReactJS.
 
