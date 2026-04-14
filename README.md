@@ -6,7 +6,7 @@
 💬 **Feel free to ask me about**: Full Stack Development, JavaScript, ReactJS, Next.js, Node.js, Express.js, MongoDB, PostgreSQL with Prisma(ORM), Web Development  
 📫 **Reach me**: [sandeepbadeti7730@gmail.com](mailto:sandeepbadeti7730@gmail.com)  
 🔗 **Find me on**:  
-- [LinkedIn](https://www.linkedin.com/in/sandeep-badeti-56b3b520b)  
+- [LinkedIn](https://www.linkedin.com/in/sandeepbadeti/)  
 - [Twitter](https://twitter.com/Sandeep17347946?s=09)  
 - [Hashnode](https://hashnode.com/@Code-Sandeep)
 
