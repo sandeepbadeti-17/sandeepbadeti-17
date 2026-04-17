@@ -8,8 +8,10 @@
 🔗 **Find me on**:  
 - [LinkedIn](https://www.linkedin.com/in/sandeepbadeti/)  
 - [Twitter](https://twitter.com/Sandeep17347946?s=09)  
-- [Hashnode](https://hashnode.com/@Code-Sandeep)
+<!-- 
 
+- [Hashnode](https://hashnode.com/@Code-Sandeep)
+-->
 ---
 
 ### 🚀 **My Skills** 👨‍💻
