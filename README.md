@@ -24,15 +24,38 @@
 ### 🏢 **Work Experience**  
 - **Senior Systems Engineer (Full Stack Developer)**  
   **Infosys Limited** | Jan 2022 – Aug 2024  
-  Worked as a Full Stack Developer for nearly 3 years, designing and implementing robust systems using modern technologies such as ReactJS, Node.js, Express.js, and MongoDB. Led several impactful projects while ensuring optimal performance and seamless integration across client systems.
+  Full Stack Developer with 2.5+ years of professional experience at Infosys, delivering enterprise applications across security tooling, engineering platforms, and client-facing products. Skilled in MERN stack development, RBAC systems, and data visualization.
 
 ---
 
 ### 🔨 **Selected Projects**  
-- **Common Secret Portal**: Designed and built a centralized system to securely store and retrieve application secrets (API keys, credentials),
-reducing reliance on hardcoded values and environment-based storage.  
-- **Batteries**: Self-service battery modeling tools built for internal teams, reducing support dependency by 25%.  
-- **Westpac Skill Hub**: Full-stack application with UX/UI design implementation, optimized with Webpack and ReactJS.
+- **Centralized Secret Management System**
+Designed and built a system to securely store and retrieve application secrets — adopted by 4 of 6 internal Node.js applications within the team. Implemented RBAC, KMS architectural improvements, and CI/CD via GitHub Actions. <br>
+Tech: React, TypeScript, Redux Toolkit, Node.js, Express.js, MongoDB, GitHub Actions
+
+
+- **Battery Modeling Platform**
+Built multi-step forms, interactive data visualization using Recharts, and optimized frontend performance through lazy loading and async/await API communication.<br>
+Tech: React, TypeScript, Redux Toolkit, Node.js, Express.js, MongoDB, Recharts
+
+
+- **Westpac Skill Hub**
+Built reusable frontend components and integrated Webpack with ReactJS to optimize build process and load performance.<br>
+Tech: React, Ant Design, Redux, GraphQL, Apollo
+
+- **Business Card Application**
+Built a backend feature to auto-generate and email QR code business cards upon user registration, replacing a manual process.<br>
+Tech: Node.js, Express.js, MongoDB, Nodemailer
+
+
+- **Dev Canvas (In Development)**
+Developer productivity platform — built multi-provider OAuth authentication with a single unified profile and persistent data across provider switches.<br>
+Tech: Next.js, PostgreSQL, Prisma, NextAuth.js
+
+
+- **BlinkAI — Chrome Extension**
+Chrome extension for instant AI-powered text explanations via Gemini API. <br>
+Tech: JavaScript, Chrome Extension APIs, Gemini API
 
 ---
 
