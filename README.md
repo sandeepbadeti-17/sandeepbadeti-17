@@ -55,7 +55,7 @@ Developer productivity platform, built multi-provider OAuth authentication with 
 Tech: Next.js, PostgreSQL, Prisma, NextAuth.js
 
 
-- **BlinkAI — Chrome Extension**
+- **BlinkAI - Browser Extension**
 Chrome extension for instant AI-powered text explanations via Gemini API. <br>
 Tech: JavaScript, Chrome Extension APIs, Gemini API
 
