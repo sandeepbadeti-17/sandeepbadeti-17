@@ -51,7 +51,7 @@ Tech: Node.js, Express.js, MongoDB, Nodemailer
 
 
 - **Dev Canvas (In Development)**
-Developer productivity platform — built multi-provider OAuth authentication with a single unified profile and persistent data across provider switches.<br>
+Developer productivity platform, built multi-provider OAuth authentication with a single unified profile and persistent data across provider switches.<br>
 Tech: Next.js, PostgreSQL, Prisma, NextAuth.js
 
 
@@ -61,4 +61,4 @@ Tech: JavaScript, Chrome Extension APIs, Gemini API
 
 ---
 
-### 🌱 **I’m always looking to learn and grow** — Let's build something amazing together! 🚀
+### 🌱 **I’m always looking to learn and grow**, Let's build something amazing together! 🚀
