@@ -65,5 +65,5 @@ I'm looking for a team that ships things people genuinely use, and cares about t
 
 ## Contact
 
-📍 Hyderabad — open to remote &nbsp; · &nbsp; 📧 [sandeepbadeti7730@gmail.com](mailto:sandeepbadeti7730@gmail.com) &nbsp; · &nbsp; 🔗 [LinkedIn](www.linkedin.com/in/sandeepbadeti) &nbsp; · &nbsp; 
+📍 Hyderabad — open to remote &nbsp; · &nbsp; 📧 [sandeepbadeti7730@gmail.com](mailto:sandeepbadeti7730@gmail.com) &nbsp; · &nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/sandeepbadeti) &nbsp;
 
