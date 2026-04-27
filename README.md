@@ -1,64 +1,69 @@
-# Hi, I'm Sandeep Badeti 👋
-### A Full Stack Developer from India, passionate about building responsive and scalable web applications.
+# Sandeep Badeti
 
-🔧 **Currently learning**: Advancing my knowledge in Backend Development and Cloud Technologies  
-🚀 **Looking to collaborate on**: Full Stack, UI/UX, Frontend, Backend, and Open-Source Projects  
-💬 **Feel free to ask me about**: Full Stack Development, JavaScript, ReactJS, Next.js, Node.js, Express.js, MongoDB, PostgreSQL with Prisma(ORM), Web Development  
-📫 **Reach me**: [sandeepbadeti7730@gmail.com](mailto:sandeepbadeti7730@gmail.com)  
-🔗 **Find me on**:  
-- [LinkedIn](https://www.linkedin.com/in/sandeepbadeti/)
-  
-<!-- 
-- [Twitter](https://twitter.com/Sandeep17347946?s=09)  
-- [Hashnode](https://hashnode.com/@Code-Sandeep)
--->
----
+> Full stack developer. I build tools that remove friction — things that feel obvious once they exist, but didn't before.
 
-### 🚀 **My Skills** 👨‍💻
-
-- **Frontend**: HTML5, CSS3, JavaScript (ES6+), TypeScript, ReactJS, Next.js, Redux, React Hooks, Material-UI, Bootstrap, Sass  
-- **Backend**: Node.js, Express.js, MongoDB, PostgreSQL with Prisma(ORM), RESTful APIs, GraphQL  
-- **Tools**: Git, GitHub, Webpack, Docker, Postman, GitHub Actions  
-- **Languages**: JavaScript, Python  
+`2.5+ yrs @ Infosys` &nbsp; `React · Node.js · TypeScript` &nbsp; ![Open to work](https://img.shields.io/badge/Open%20to%20work-brightgreen?style=flat-square)
 
 ---
 
-### 🏢 **Work Experience**  
-- **Senior Systems Engineer (Full Stack Developer)**  
-  **Infosys Limited** | Jan 2022 – Aug 2024  
-  Full Stack Developer with 2.5+ years of professional experience at Infosys, delivering enterprise applications across security tooling, engineering platforms, and client-facing products. Skilled in MERN stack development, RBAC systems, and data visualization.
+## Featured Projects
+
+### ⚡ BlinkAI — AI without leaving your tab
+`Chrome Extension` &nbsp; `🚧 In progress` &nbsp; 
+
+*Full walkthrough → [Repo](https://github.com/sandeepbadeti-17/BlinkAI)*
+
+<img width="400" height="225" alt="blink2 resized (online-video-cutter com)" src="https://github.com/user-attachments/assets/590801c9-fe0e-4324-8b11-20908e098e0b" />
+
+Highlight any text → instant AI explanation, inline. Zero tab switching.
+
+`Gemini API` &nbsp; `Chrome Extensions API` &nbsp; `JavaScript`
 
 ---
 
-### 🔨 **Selected Projects**  
-- **Centralized Secret Management System**
-Designed and built a system to securely store and retrieve application secrets — adopted by 4 of 6 internal Node.js applications within the team. Implemented RBAC, KMS architectural improvements, and CI/CD via GitHub Actions. <br>
-Tech: React, TypeScript, Redux Toolkit, Node.js, Express.js, MongoDB, GitHub Actions
+### 🔥 DevCanva — Streaks you can't fake  
+`Web App` · `🚧 In progress` 
 
+*Full walkthrough → [Repo](https://github.com/sandeepbadeti-17/codecanvas)*
 
-- **Battery Modeling Platform**
-Built multi-step forms, interactive data visualization using Recharts, and optimized frontend performance through lazy loading and async/await API communication.<br>
-Tech: React, TypeScript, Redux Toolkit, Node.js, Express.js, MongoDB, Recharts
+Tracks your coding consistency using real activity from GitHub & LeetCode — no manual input, no fake streaks.
 
-
-- **Westpac Skill Hub**
-Built reusable frontend components and integrated Webpack with ReactJS to optimize build process and load performance.<br>
-Tech: React, Ant Design, Redux, GraphQL, Apollo
-
-- **Business Card Application**
-Built a backend feature to auto-generate and email QR code business cards upon user registration, replacing a manual process.<br>
-Tech: Node.js, Express.js, MongoDB, Nodemailer
-
-
-- **Dev Canvas (In Development)**
-Developer productivity platform, built multi-provider OAuth authentication with a single unified profile and persistent data across provider switches.<br>
-Tech: Next.js, PostgreSQL, Prisma, NextAuth.js
-
-
-- **BlinkAI - Browser Extension**
-Chrome extension for instant AI-powered text explanations via Gemini API. <br>
-Tech: JavaScript, Chrome Extension APIs, Gemini API
+`Next.js` · `NextAuth` · `PostgreSQL` · `Prisma`
 
 ---
 
-### 🌱 **I’m always looking to learn and grow**, Let's build something amazing together! 🚀
+### 🔑 Centralized Secret Management — Infosys (Production)
+`Work · Internal Tool`
+
+> *"Every team managed secrets differently — env files, spreadsheets, Slack. We built the system that replaced all of it."*
+
+Centralized secret storage with KMS-backed encryption and RBAC access control. Adopted by 4 of 6 internal Node.js applications — standardized how secrets are stored, accessed, rotated, and integrated into CI/CD via GitHub Actions.
+
+`Node.js` &nbsp; `KMS` &nbsp; `GitHub Actions` &nbsp; `RBAC`
+
+---
+
+## About Me
+
+I've spent **2.5 years at Infosys** building internal developer tools — RBAC systems, dashboards, and platforms used across engineering teams. I'm not just a feature builder; I care about whether what I ship actually changes how people work.
+
+Outside of work, I build side projects that scratch my own itches. BlinkAI came from being annoyed at losing reading focus. Dev Canvas came from wanting an honest record of my growth as a developer — one I couldn't game.
+
+I'm looking for a team that ships things people genuinely use, and cares about the details that make software feel good.
+
+---
+
+## Tech Stack
+
+| Layer | Technologies |
+|---|---|
+| **Frontend** | React, Next.js, TypeScript |
+| **Backend** | Node.js, Express, PostgreSQL, MongoDB |
+| **Tools** | Docker, GitHub Actions, Prisma |
+
+---
+
+## Contact
+
+📍 Hyderabad — open to remote &nbsp; · &nbsp; 📧 [sandeepbadeti7730@gmail.com](mailto:sandeepbadeti7730@gmail.com) &nbsp; · &nbsp; 🔗 [LinkedIn](www.linkedin.com/in/sandeepbadeti) &nbsp; · &nbsp; 
+
