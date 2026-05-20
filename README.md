@@ -37,7 +37,7 @@ Tracks your coding consistency using real activity from GitHub & LeetCode — no
 
 > *"Every team managed secrets differently — env files, spreadsheets, Slack. We built the system that replaced all of it."*
 
-Centralized secret storage with KMS-backed encryption and RBAC access control. Adopted by 4 of 6 internal Node.js applications — standardized how secrets are stored, accessed, rotated, and integrated into CI/CD via GitHub Actions.
+Centralized secret storage with Azure Key Vault-backed encryption and RBAC access control. Adopted by 4 of 6 internal Node.js applications — standardized how secrets are stored, accessed, rotated, and integrated into CI/CD via GitHub Actions.
 
 `Node.js` &nbsp; `KMS` &nbsp; `GitHub Actions` &nbsp; `RBAC`
 
